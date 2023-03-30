@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/navGuruku/static/css/main.7a9c4b7a.css",
+    "main.js": "/navGuruku/static/js/main.ae97d395.js",
+    "index.html": "/navGuruku/index.html",
+    "main.7a9c4b7a.css.map": "/navGuruku/static/css/main.7a9c4b7a.css.map",
+    "main.ae97d395.js.map": "/navGuruku/static/js/main.ae97d395.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a9c4b7a.css",
+    "static/js/main.ae97d395.js"
+  ]
+}
